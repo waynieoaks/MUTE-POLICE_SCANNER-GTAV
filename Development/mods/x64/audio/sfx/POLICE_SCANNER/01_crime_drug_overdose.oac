@@ -1,0 +1,88 @@
+Version 1 11
+{
+	IsStream False
+	DescriptorsInOrder True
+	Entries
+	{
+		WaveTrack CRIME_DRUG_OVERDOSE_05
+		{
+			Compression ADPCM
+			Headroom 449
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave 01_crime_drug_overdose\CRIME_DRUG_OVERDOSE_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack CRIME_DRUG_OVERDOSE_03
+		{
+			Compression ADPCM
+			Headroom 521
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave 01_crime_drug_overdose\CRIME_DRUG_OVERDOSE_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack CRIME_DRUG_OVERDOSE_01
+		{
+			Compression ADPCM
+			Headroom 541
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave 01_crime_drug_overdose\CRIME_DRUG_OVERDOSE_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack CRIME_DRUG_OVERDOSE_02
+		{
+			Compression ADPCM
+			Headroom 397
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave 01_crime_drug_overdose\CRIME_DRUG_OVERDOSE_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack CRIME_DRUG_OVERDOSE_04
+		{
+			Compression ADPCM
+			Headroom 578
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave 01_crime_drug_overdose\CRIME_DRUG_OVERDOSE_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+	}
+}

@@ -1,0 +1,40 @@
+Version 1 11
+{
+	IsStream False
+	DescriptorsInOrder True
+	Entries
+	{
+		WaveTrack CRIME_OFFICER_STRUCK_BY_VEHICLE_01
+		{
+			Compression ADPCM
+			Headroom 453
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave 01_crime_officer_struck_by_vehicle\CRIME_OFFICER_STRUCK_BY_VEHICLE_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack CRIME_OFFICER_STRUCK_BY_VEHICLE_02
+		{
+			Compression ADPCM
+			Headroom 494
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave 01_crime_officer_struck_by_vehicle\CRIME_OFFICER_STRUCK_BY_VEHICLE_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+	}
+}

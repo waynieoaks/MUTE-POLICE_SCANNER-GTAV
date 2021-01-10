@@ -1,0 +1,88 @@
+Version 1 11
+{
+	IsStream False
+	DescriptorsInOrder True
+	Entries
+	{
+		WaveTrack CRIME_9_14A_ATTEMPTED_SUICIDE_04
+		{
+			Compression ADPCM
+			Headroom 399
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave 01_crime_9_14a_attempted_suicide\CRIME_9_14A_ATTEMPTED_SUICIDE_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack CRIME_9_14A_ATTEMPTED_SUICIDE_03
+		{
+			Compression ADPCM
+			Headroom 523
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave 01_crime_9_14a_attempted_suicide\CRIME_9_14A_ATTEMPTED_SUICIDE_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack CRIME_9_14A_ATTEMPTED_SUICIDE_02
+		{
+			Compression ADPCM
+			Headroom 440
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave 01_crime_9_14a_attempted_suicide\CRIME_9_14A_ATTEMPTED_SUICIDE_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack CRIME_9_14A_ATTEMPTED_SUICIDE_05
+		{
+			Compression ADPCM
+			Headroom 666
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave 01_crime_9_14a_attempted_suicide\CRIME_9_14A_ATTEMPTED_SUICIDE_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack CRIME_9_14A_ATTEMPTED_SUICIDE_01
+		{
+			Compression ADPCM
+			Headroom 566
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave 01_crime_9_14a_attempted_suicide\CRIME_9_14A_ATTEMPTED_SUICIDE_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+	}
+}

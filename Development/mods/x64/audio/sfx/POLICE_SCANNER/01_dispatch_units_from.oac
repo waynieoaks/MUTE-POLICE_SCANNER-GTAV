@@ -1,0 +1,72 @@
+Version 1 11
+{
+	IsStream False
+	DescriptorsInOrder True
+	Entries
+	{
+		WaveTrack DISPATCH_UNITS_FROM_03
+		{
+			Compression ADPCM
+			Headroom 521
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave 01_dispatch_units_from\DISPATCH_UNITS_FROM_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack DISPATCH_UNITS_FROM_01
+		{
+			Compression ADPCM
+			Headroom 538
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave 01_dispatch_units_from\DISPATCH_UNITS_FROM_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack DISPATCH_UNITS_FROM_02
+		{
+			Compression ADPCM
+			Headroom 654
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave 01_dispatch_units_from\DISPATCH_UNITS_FROM_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack DISPATCH_UNITS_FROM_04
+		{
+			Compression ADPCM
+			Headroom 611
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave 01_dispatch_units_from\DISPATCH_UNITS_FROM_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+	}
+}

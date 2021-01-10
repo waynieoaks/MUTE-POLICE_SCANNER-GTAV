@@ -1,0 +1,72 @@
+Version 1 11
+{
+	IsStream False
+	DescriptorsInOrder True
+	Entries
+	{
+		WaveTrack CRIME_GRAND_THEFT_AUTO_03
+		{
+			Compression ADPCM
+			Headroom 343
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave 01_crime_grand_theft_auto\CRIME_GRAND_THEFT_AUTO_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack CRIME_GRAND_THEFT_AUTO_02
+		{
+			Compression ADPCM
+			Headroom 333
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave 01_crime_grand_theft_auto\CRIME_GRAND_THEFT_AUTO_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack CRIME_GRAND_THEFT_AUTO_04
+		{
+			Compression ADPCM
+			Headroom 338
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave 01_crime_grand_theft_auto\CRIME_GRAND_THEFT_AUTO_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack CRIME_GRAND_THEFT_AUTO_01
+		{
+			Compression ADPCM
+			Headroom 266
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave 01_crime_grand_theft_auto\CRIME_GRAND_THEFT_AUTO_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+	}
+}

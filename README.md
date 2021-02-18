@@ -1,4 +1,4 @@
-# BG POLICE_SCANNER BGONE for GTA V #
+# MUTE POLICE_SCANNER for GTA V #
 
 Are you sick of hearing your crimes announced over the police radio as you flee? 
 Maybe you have stolen a police car and don't want to listen all day about how "busy" the police are while not looking for you (thief)... 
@@ -7,7 +7,7 @@ Or maybe, like me, you use LSPDFR along with some other AI police scanner (such 
 
 Well, have I got a QoL mod for you (that you didn't realise you needed):
 
-**BG Police_Scanner Bgone** simply replaces (not one, not two, but all) of the audio files used by the in-game police scanner with silent audio. That's right - silence (kind of). This means while it is still technically playing in the background - it is muted (well, almost). 
+**MUTE Police_Scanner** simply replaces (not one, not two, but all) of the audio files used by the in-game police scanner with silent audio. That's right - silence (kind of). This means while it is still technically playing in the background - it is muted (well, almost). 
 
 This only affects the in game scanner (unless there is a mod out there making use of these files directly) so it will: 
 - Turn off the background chatter you hear sitting in police cars
